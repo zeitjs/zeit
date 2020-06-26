@@ -1,0 +1,13 @@
+{
+  "name": "@zeitjs/project",
+  "version": "0.0.1",
+  "description": "Monorepo for Zietjs modules",
+  "main": "index.js",
+  "repository": "https://github.com/zeitjs/zeit.git",
+  "author": "Dmitry Urenev <dmitry.urenev@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "lerna": "^3.22.1"
+  }
+}
